@@ -6,6 +6,8 @@
 
 ![Lopes GitHub stats](https://github-readme-stats.vercel.app/api?username=lopesszzx&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lopesszzx)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Tecnologias utlizadas
 
